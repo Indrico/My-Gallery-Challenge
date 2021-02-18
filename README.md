@@ -34,8 +34,8 @@
 
 ## Overview
 
-<div align="center"><img src="https://indrico-my-gallery.netlify.app/desktop-screenshoot"></div>
-<div align="center"><img src="https://indrico-my-gallery.netlify.app/mobile-screenshoot"></div>
+<div align="center"><img src="https://indrico-my-gallery.netlify.app/desktop-screenshoot.png"></div>
+<div align="center"><img src="https://indrico-my-gallery.netlify.app/mobile-screenshoot.png"></div>
 
 ### Built With
 - HTML
