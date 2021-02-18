@@ -76,6 +76,7 @@ main{
     height: 100%;
     object-fit: cover;
     border-radius: 20px;
+    box-shadow: 4px ​4px 4px #dedede;
 }
 
 .image-gallery:nth-child(2) {
