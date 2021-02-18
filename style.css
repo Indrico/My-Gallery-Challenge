@@ -102,6 +102,10 @@ footer {
 }
 
 @media (max-width: 480px) {
+    .profile-picture {
+        width: 150px;
+        height: 150px;
+    }
     main {
         width: 90%;
         gap: 20px;
